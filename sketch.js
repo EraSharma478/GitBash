@@ -63,3 +63,4 @@ function draw(){
     bird.display();
     platform.display();
 }
+// all the best to play this game
